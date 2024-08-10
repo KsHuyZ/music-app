@@ -1,84 +1,277 @@
-
-    [
-        {
-          "id": "1",
-          "title": "Midnight Vibes",
-          "artist": "Luna Echoes",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 225,
-          "like": false
-        },
-        {
-          "id": "2",
-          "title": "Sunrise Serenade",
-          "artist": "Aurora Dawn",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 254,
-          "like": false
-        },
-        {
-          "id": "3",
-          "title": "Echoes in the Forest",
-          "artist": "Whispering Pines",
-         "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 306,
-          "like": false
-        },
-        {
-          "id": "4",
-          "title": "City Lights",
-          "artist": "Neon Dreams",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 238,
-          "like": false
-        },
-        {
-          "id": "5",
-          "title": "Ocean Breeze",
-          "artist": "Waves of Harmony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 275,
-          "like": false
-        },
-        {
-          "id": "6",
-          "title": "Cosmic Voyage",
-          "artist": "Galactic Sound",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 382,
-          "like": false
-        },
-        {
-          "id": "7",
-          "title": "Mountain Echo",
-          "artist": "Highland Spirits",
-         "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 290,
-          "like": false
-        },
-        {
-          "id": "8",
-          "title": "Rainy Day Blues",
-          "artist": "Misty Mornings",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 210,
-          "like": false
-        },
-        {
-          "id": "9",
-          "title": "Starlit Sky",
-          "artist": "Celestial Dreams",
-         "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 315,
-          "like": false
-        },
-        {
-          "id": "10",
-          "title": "Desert Mirage",
-          "artist": "Sahara Sounds",
-         "image": "https://i.scdn.co/image/ab67616d0000b2736b93da2dcf8cd830d1eaac64",
-          "duration": 250,
-          "like": false
-        }
-      ]
-      
+[
+  {
+      "id": 2523324901,
+      "readable": true,
+      "title": "3D (feat. Jack Harlow)",
+      "title_short": "3D (feat. Jack Harlow)",
+      "title_version": "",
+      "isrc": "USA2P2346470",
+      "link": "https://www.deezer.com/track/2523324901",
+      "duration": 201,
+      "track_position": 1,
+      "disk_number": 1,
+      "rank": 613135,
+      "explicit_lyrics": true,
+      "explicit_content_lyrics": 1,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-5.dzcdn.net/stream/c-57068379584f24b69daec1614cbf354f-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324911,
+      "readable": true,
+      "title": "Closer to You (feat. Major Lazer)",
+      "title_short": "Closer to You (feat. Major Lazer)",
+      "title_version": "",
+      "isrc": "USA2P2348390",
+      "link": "https://www.deezer.com/track/2523324911",
+      "duration": 170,
+      "track_position": 2,
+      "disk_number": 1,
+      "rank": 648394,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-a.dzcdn.net/stream/c-af551dfbc6fdf938ded4eaa73becc0cd-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324921,
+      "readable": true,
+      "title": "Seven (feat. Latto) (Explicit Ver.)",
+      "title_short": "Seven (feat. Latto) (Explicit Ver.)",
+      "title_version": "",
+      "isrc": "USA2P2330093",
+      "link": "https://www.deezer.com/track/2523324921",
+      "duration": 183,
+      "track_position": 3,
+      "disk_number": 1,
+      "rank": 623547,
+      "explicit_lyrics": true,
+      "explicit_content_lyrics": 1,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-8.dzcdn.net/stream/c-8302135796a50833260629b827a9dfef-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324931,
+      "readable": true,
+      "title": "Standing Next to You",
+      "title_short": "Standing Next to You",
+      "title_version": "",
+      "isrc": "USA2P2348391",
+      "link": "https://www.deezer.com/track/2523324931",
+      "duration": 206,
+      "track_position": 4,
+      "disk_number": 1,
+      "rank": 813009,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-9.dzcdn.net/stream/c-92d67493403529e327e9f601ae1c0e12-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324941,
+      "readable": true,
+      "title": "Yes or No",
+      "title_short": "Yes or No",
+      "title_version": "",
+      "isrc": "USA2P2348392",
+      "link": "https://www.deezer.com/track/2523324941",
+      "duration": 147,
+      "track_position": 5,
+      "disk_number": 1,
+      "rank": 686352,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-3.dzcdn.net/stream/c-3633b3a1417fa9075f62cab5154306ac-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324951,
+      "readable": true,
+      "title": "Please Don't Change (feat. DJ Snake)",
+      "title_short": "Please Don't Change (feat. DJ Snake)",
+      "title_version": "",
+      "isrc": "USA2P2348393",
+      "link": "https://www.deezer.com/track/2523324951",
+      "duration": 146,
+      "track_position": 6,
+      "disk_number": 1,
+      "rank": 689470,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-f.dzcdn.net/stream/c-fbc38c87ed789244670252bf8d78a321-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324961,
+      "readable": true,
+      "title": "Hate You",
+      "title_short": "Hate You",
+      "title_version": "",
+      "isrc": "USA2P2348394",
+      "link": "https://www.deezer.com/track/2523324961",
+      "duration": 154,
+      "track_position": 7,
+      "disk_number": 1,
+      "rank": 682010,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-3.dzcdn.net/stream/c-3a5444c8c7c8595885f3de77a321f332-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324971,
+      "readable": true,
+      "title": "Somebody",
+      "title_short": "Somebody",
+      "title_version": "",
+      "isrc": "USA2P2348395",
+      "link": "https://www.deezer.com/track/2523324971",
+      "duration": 168,
+      "track_position": 8,
+      "disk_number": 1,
+      "rank": 609202,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-b.dzcdn.net/stream/c-b43b969a9bc9245082911a24775d8e66-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324981,
+      "readable": true,
+      "title": "Too Sad to Dance",
+      "title_short": "Too Sad to Dance",
+      "title_version": "",
+      "isrc": "USA2P2348396",
+      "link": "https://www.deezer.com/track/2523324981",
+      "duration": 175,
+      "track_position": 9,
+      "disk_number": 1,
+      "rank": 624482,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-b.dzcdn.net/stream/c-b3aff7bb0c25a9b15590a0ed71eee82c-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523324991,
+      "readable": true,
+      "title": "Shot Glass of Tears",
+      "title_short": "Shot Glass of Tears",
+      "title_version": "",
+      "isrc": "USA2P2348397",
+      "link": "https://www.deezer.com/track/2523324991",
+      "duration": 167,
+      "track_position": 10,
+      "disk_number": 1,
+      "rank": 634627,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 0,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-8.dzcdn.net/stream/c-8f44b45258f1b71ec205b453716864db-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  },
+  {
+      "id": 2523325001,
+      "readable": true,
+      "title": "Seven (feat. Latto) (Clean Ver.)",
+      "title_short": "Seven (feat. Latto) (Clean Ver.)",
+      "title_version": "",
+      "isrc": "USA2P2330092",
+      "link": "https://www.deezer.com/track/2523325001",
+      "duration": 183,
+      "track_position": 11,
+      "disk_number": 1,
+      "rank": 576764,
+      "explicit_lyrics": false,
+      "explicit_content_lyrics": 3,
+      "explicit_content_cover": 1,
+      "preview": "https://cdn-preview-b.dzcdn.net/stream/c-b5929b73b211bbc002b8326c8392d1da-1.mp3",
+      "md5_image": "5d316d47d96b7c8f5a029dffe1f38981",
+      "artist": {
+          "id": 9172904,
+          "name": "Jung Kook",
+          "tracklist": "https://api.deezer.com/artist/9172904/top?limit=50",
+          "type": "artist"
+      },
+      "type": "track"
+  }
+]

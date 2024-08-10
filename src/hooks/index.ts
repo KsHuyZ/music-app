@@ -10,7 +10,7 @@ export const useGetMusic = () => {
     const getMusics = async () => {
       try {
         const result = await getAllMusics();
-        setData(result.data);
+        setData(result);
         setError(false);
       } catch {
         setError(true);
